@@ -1,0 +1,25 @@
+{
+  "name": "get-more-info-cta",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@next-auth/prisma-adapter": "^0.5.2",
+    "@prisma/client": "^3.7.0",
+    "@supabase/supabase-js": "^1.28.5",
+    "axios": "^0.21.1",
+    "next": "latest",
+    "next-auth": "^4.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0"
+  }
+}
